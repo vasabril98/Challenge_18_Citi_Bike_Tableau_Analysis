@@ -12,4 +12,4 @@ However, while the data has been regularly updated, the team has yet to implemen
 The analysis contains data for rides in Jersey City rides during the year of 2022
 
 ## [Tableau Analysis](https://public.tableau.com/app/profile/victor.abril.sanchez/viz/Book1_16831588491700/JCCitiBikeAnalysis?publish=yes)
-![Image_1](images/image1.png)
+![Image_1](https://github.com/vasabril98/Challenge_18_Citi_Bike_Tableau_Analysis/blob/main/Images/Image1.png)
