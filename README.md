@@ -12,7 +12,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 The analysis contains data for rides in Jersey City rides during the year of 2022
 
 ## [Tableau Analysis](https://public.tableau.com/app/profile/victor.abril.sanchez/viz/Book1_16831588491700/JCCitiBikeAnalysis?publish=yes)
-![Image_1](https://github.com/vasabril98/Challenge_18_Citi_Bike_Tableau_Analysis/blob/main/Images/Image1.png)
+[Image_1](https://github.com/vasabril98/Challenge_18_Citi_Bike_Tableau_Analysis/blob/main/Images/Image1.png)
 The Station map shows all 320 stations, and we can observe a higher bike usage density as you get closer to the pier of Jersey City. This trend could be because that is where most of the light rail and train stations that take you to NY are. We can also see more members than casual bikers toward the southern stations.
 
 The bar charts show the top/bottom 10 Citi bike stations for Jersey City. Some trends can be identified in these charts. Most of the top stations are closer to a train or light rail station. On the other hand, the bottom stations are farther away from a train or light rail station.
