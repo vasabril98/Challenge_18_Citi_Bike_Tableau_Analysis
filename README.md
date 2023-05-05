@@ -11,4 +11,4 @@ However, while the data has been regularly updated, the team has yet to implemen
 ## [Citi Bike Data Source](https://s3.amazonaws.com/tripdata/index.html)
 The analysis contains data for rides in Jersey City rides during the year of 2022
 
-## [Tableau Analysis] (https://public.tableau.com/app/profile/victor.abril.sanchez/viz/Book1_16831588491700/JCCitiBikeAnalysis?publish=yes)
+## [Tableau Analysis](https://public.tableau.com/app/profile/victor.abril.sanchez/viz/Book1_16831588491700/JCCitiBikeAnalysis?publish=yes)
