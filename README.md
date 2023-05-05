@@ -13,3 +13,6 @@ The analysis contains data for rides in Jersey City rides during the year of 202
 
 ## [Tableau Analysis](https://public.tableau.com/app/profile/victor.abril.sanchez/viz/Book1_16831588491700/JCCitiBikeAnalysis?publish=yes)
 ![Image_1](https://github.com/vasabril98/Challenge_18_Citi_Bike_Tableau_Analysis/blob/main/Images/Image1.png)
+![Image_2](https://github.com/vasabril98/Challenge_18_Citi_Bike_Tableau_Analysis/blob/main/Images/Image2.png)
+![Image_3](https://github.com/vasabril98/Challenge_18_Citi_Bike_Tableau_Analysis/blob/main/Images/Image3.png)
+![Image_4](https://github.com/vasabril98/Challenge_18_Citi_Bike_Tableau_Analysis/blob/main/Images/Image4.png)
