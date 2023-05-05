@@ -14,7 +14,7 @@ The analysis contains data for rides in Jersey City rides during the year of 202
 ## [Tableau Analysis](https://public.tableau.com/app/profile/victor.abril.sanchez/viz/Book1_16831588491700/JCCitiBikeAnalysis?publish=yes)
 
 ### Start Station Charts Filtered By Month
-![Image_1]()
+![]()
 The Station map shows all 320 stations, and we can observe a higher bike usage density as you get closer to the pier of Jersey City. This trend could be because that is where most of the light rail and train stations that take you to NY are. We can also see more members than casual bikers toward the southern stations.
 
 The bar charts show the top/bottom 10 Citi bike stations for Jersey City. Some trends can be identified in these charts. Most of the top stations are closer to a train or light rail station. On the other hand, the bottom stations are farther away from a train or light rail station.
@@ -22,7 +22,7 @@ The bar charts show the top/bottom 10 Citi bike stations for Jersey City. Some t
 Lastly, we can observe on all the charts that there are more bikers with a membership than casual bikers for this dataset. By filtering these charts by each month, we can observe that the number of casual bikers typically increases during summer.
 
 ### End Station Charts Filtered By Month
-![Image_2]()
+![]()
 The map shows the regular use of bikes by members and casual bikers across Jersey City. We can observe that some bikers have branched out to end their trip in NY. Some conclusions made about the trips ending in NY:
 - Some Bikers work in NY and end up taking their bikes with them to the NY train or Ferry
 - Since there are only a few trips ending in NY, Some bikers go for a stroll in the city for the weekend
@@ -36,7 +36,7 @@ Lastly, with the member/casual and months filters, we can observe the following:
 More analysis on the time of the day and day of the week can be conducted to explore these hypotheses further.
 
 ### Weekly Analysis of Type of Bike Rides Filtered by Month
-![Image_3]()
+![]()
 Based on the pie chart, we can observe that:
 - The dataset has more classic bikes than any other type of bike. 
 - The dataset a ver few docked bikes
@@ -49,7 +49,7 @@ Lastly, the average trip distance per graph shows:
 - On average, electric and classic bikes are used more on weekends.
 
 ### Seasonal Analysis of Type of Bikes
-![Image_4]()
+![]()
 Based on the graphs on this dashboard, we can observe that for this subset of the Citi Bike dataset:
 - Summer has the most number of bikes used 
 - Winter has the least number of bikes used 
