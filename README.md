@@ -12,6 +12,8 @@ However, while the data has been regularly updated, the team has yet to implemen
 The analysis contains data for rides in Jersey City rides during the year of 2022
 
 ## [Tableau Analysis](https://public.tableau.com/app/profile/victor.abril.sanchez/viz/Book1_16831588491700/JCCitiBikeAnalysis?publish=yes)
+
+### Start Station Charts Filtered By Month
 ![Image_1](https://github.com/vasabril98/Challenge_18_Citi_Bike_Tableau_Analysis/blob/main/Images/Image11.png)
 The Station map shows all 320 stations, and we can observe a higher bike usage density as you get closer to the pier of Jersey City. This trend could be because that is where most of the light rail and train stations that take you to NY are. We can also see more members than casual bikers toward the southern stations.
 
@@ -19,6 +21,7 @@ The bar charts show the top/bottom 10 Citi bike stations for Jersey City. Some t
 
 Lastly, we can observe on all the charts that there are more bikers with a membership than casual bikers for this dataset. By filtering these charts by each month, we can observe that the number of casual bikers typically increases during summer.
 
+### End Station Charts Filtered By Month
 ![Image_2](https://github.com/vasabril98/Challenge_18_Citi_Bike_Tableau_Analysis/blob/main/Images/Image2.png)
 The map shows the regular use of bikes by members and casual bikers across Jersey City. We can observe that some bikers have branched out to end their trip in NY. Some conclusions made about the trips ending in NY:
 - Some Bikers work in NY and end up taking their bikes with them to the NY train or Ferry
@@ -32,6 +35,7 @@ Lastly, with the member/casual and months filters, we can observe the following:
 
 More analysis on the time of the day and day of the week can be conducted to explore these hypotheses further.
 
+### Weekly Analysis of Type of Bike Rides Filtered by Month
 ![Image_3](https://github.com/vasabril98/Challenge_18_Citi_Bike_Tableau_Analysis/blob/main/Images/Image3.png)
 Based on the pie chart, we can observe that:
 - The dataset has more classic bikes than any other type of bike. 
@@ -44,7 +48,7 @@ Lastly, the average trip distance per graph shows:
 - Electric bikes typically travel further than other types of bikes. It makes sense that electric bikes travel more since the rider does not have to pedal as much.
 - On average, electric and classic bikes are used more on weekends.
 
-
+### Seasonal Analysis of Type of Bikes
 ![Image_4](https://github.com/vasabril98/Challenge_18_Citi_Bike_Tableau_Analysis/blob/main/Images/Image4.png)
 Based on the graphs on this dashboard, we can observe that for this subset of the Citi Bike dataset:
 - Summer has the most number of bikes used 
